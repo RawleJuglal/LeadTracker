@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "leadtracker",
   "dependencies": {},
   "devDependencies": {
     "vite": "latest"
